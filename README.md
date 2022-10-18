@@ -15,7 +15,7 @@ Heading style is text stroke
 
 Heading color is "#FAB201"
 
-*add the below styling property to the game heading*
+*add the below styling property to the game's heading*
 
 `-webkit-text-stroke: 5px white;`
 
