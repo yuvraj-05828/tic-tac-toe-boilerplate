@@ -1,4 +1,4 @@
-# tic-tac-toe-boilerplate
+# Tic-Tac-Toe-Boilerplate
 
 ## Here is the expected output
 
@@ -12,6 +12,8 @@ The font used is Fredoka One
 Background clour is dodgerblue
 
 Heading style is text stroke
+
+Heading color is "#FAB201"
 
 *add the below styling property to the game heading*
 
